@@ -54,9 +54,9 @@ MVC 패턴을 적용하여 실무 역량 강화에 집중하였습니다.
 ### 3️⃣ 설계
 | 설계 자료 | 자료 링크 |
 |---------|---------|
-| 요구사항 및 기능 정의서| [요구사항 및 기능 정의서](./docs/기능-정의서.xlsx) |
-| ERD | [ERD](./docs/ERD-초안.png) |
-| 테이블 정의서 | [테이블 정의서](./docs/테이블-정의서.docx) |
+| 요구사항 및 기능 정의서| [요구사항 및 기능 정의서](./docs/feature.xlsx) |
+| ERD | [ERD](./docs/erd.png) |
+| 테이블 정의서 | [테이블 정의서](./docs/table.docx) |
 | 화면 설계 | [화면 설계](https://www.figma.com/design/CCI4D6iVSRWdT15QUCbx94/%EB%AF%B8%EB%8B%881_2%EC%A1%B0?node-id=0-1&t=XbBJhBEHFpNQS3Dk-1) |
 
 ### 4️⃣ 개발 환경
