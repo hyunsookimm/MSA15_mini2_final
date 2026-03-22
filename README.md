@@ -1,5 +1,5 @@
 # Mini Project 망머샵 ✂️
-<br>
+
 ![🎥 시연 발표 영상](https://www.youtube.com/watch?v=tnbGXUsW8Tk)
 
 ---
