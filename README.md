@@ -1,6 +1,6 @@
 # Mini Project 망머샵 ✂️
 
-[![🎥 시연 영상](https://img.youtube.com/vi/tnbGXUsW8Tk/0.jpg)](https://www.youtube.com/watch?v=tnbGXUsW8Tk)
+[🎥 시연 발표 영상](https://www.youtube.com/watch?v=tnbGXUsW8Tk)
 
 ## 🗂️ 목차
 - [📌 프로젝트 개요](#-프로젝트-개요)
